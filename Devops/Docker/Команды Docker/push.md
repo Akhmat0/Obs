@@ -1,8 +1,9 @@
 - **Описание**: Загружает образ в реестр.
-- **Синтаксис**:- bash
+- **Синтаксис**:
     
     `docker push [OPTIONS] NAME[:TAG]`
     
 - **Пример использования**:bash
-
-`docker push my-image:latest`
+	
+	`docker push my-image:latest`
+	

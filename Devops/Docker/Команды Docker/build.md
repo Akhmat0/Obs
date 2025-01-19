@@ -9,7 +9,6 @@
     - `--no-cache`: Не использовать кэш при сборке.
     
 - **Пример использования**:
-
-bash
-
-`docker build -t my-image .` 
+	
+	`docker build -t my-image .` 
+	

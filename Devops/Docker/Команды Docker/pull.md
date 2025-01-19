@@ -1,10 +1,9 @@
 - **Описание**: Загружает образ из реестра.
-- **Синтаксис**:- bash
+- **Синтаксис**:
     
     `docker pull [OPTIONS] NAME[:TAG|@DIGEST]`
     
 - **Пример использования**:
-
-bash
-
-`docker pull nginx:latest`
+	
+	`docker pull nginx:latest`
+	

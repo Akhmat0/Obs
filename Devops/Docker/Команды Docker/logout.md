@@ -1,12 +1,9 @@
 - **Описание**: Выход из реестра.
 - **Синтаксис**:
-
-bash
-
-`docker logout [SERVER]`
-
+	
+	`docker logout [SERVER]`
+	
 - Пример использования:
-
-bash
-
-`docker logout`
+	
+	`docker logout`
+	

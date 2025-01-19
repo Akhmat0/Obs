@@ -8,5 +8,6 @@
     - `-it`: Запускает команду в интерактивном режиме с терминалом.
     
 - **Пример использования**:bash
-
-`docker exec -it my-nginx /bin/bash`
+	
+	`docker exec -it my-nginx /bin/bash`
+	
